@@ -1,3 +1,1 @@
-#PeerUP - NWHACKS 2025 SUBMISSION
-
 pearup.study
